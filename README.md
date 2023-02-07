@@ -1,8 +1,3 @@
-### Hi, I'm Fahri Gunadi 👋
-
-
-[Website](//fahrigunadi.dev)
-
 ### My GitHub Stats
 
 <p>
