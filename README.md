@@ -6,5 +6,5 @@
 <br>
 <br>
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahriGunadi&show_icons=true&layout=compact&langs_count=8&theme=gotham"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrigunadi&show_icons=true&hide_progress=true&langs_count=10&theme=gotham"/>
 </p>
